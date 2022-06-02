@@ -11,5 +11,5 @@ const SFooter = styled.footer`
 `;
 
 export const Footer = () => {
-  return <SFooter>Hiroharu Tanaka's company</SFooter>;
+  return <SFooter>sample company</SFooter>;
 };
